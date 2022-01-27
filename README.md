@@ -116,9 +116,9 @@ HAVE A FUN!
                   <table>
 										<tbody>
 											<tr>
-												<td><a href="https://www.youtube.com/channel/UCAafO2_JLzGHl_Le7BTkY3A/featured"><img src="https://telegra.ph/file/81559ab4dce492370645c.jpg" width="200" height="200" alt="DM bro"></a></td>
-												<td><a href="https://wa.me/94785972996"><img src="https://telegra.ph/file/a1ca412b0b92cc45aaa6a.jpg" width="200" height="200" alt="Pasiya"></a></td>
-												<td><a href="https://wa.me/94703164788"><img src="https://telegra.ph/file/0953550b78a8b1861346b.jpg" width="200" height="200" alt="paraveen"></a></td>
+												<td><a href="https://www.youtube.com"><img src="https://telegra.ph/file/81559ab4dce492370645c.jpg" width="200" height="200" alt="DM bro"></a></td>
+												<td><a href="https://wa.me/94767911794"><img src="https://telegra.ph/file/a1ca412b0b92cc45aaa6a.jpg" width="200" height="200" alt="Pasiya"></a></td>
+												<td><a href="https://wa.me/94718556912"><img src="https://telegra.ph/file/0953550b78a8b1861346b.jpg" width="200" height="200" alt="paraveen"></a></td>
 											</tr>
 										</tbody>
 									</table>
