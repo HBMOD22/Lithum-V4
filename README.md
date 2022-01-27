@@ -71,11 +71,11 @@
     <img src="https://img.shields.io/github/license/AchiyaCT/ALPHA-V4?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/AchiyaCT/ALPHA-V4">
+  <a href="https://github.com/HBMOD22/Lithum-V4">
     <img src="https://img.shields.io/github/languages/top/AchiyaCT/ALPHA-V4?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/AchiyaCT/ALPHA-V4">
+  <a href="https://github.com/HBMOD22/Lithum-V4">
     <img src="https://img.shields.io/static/v1?label=Author&message=Achi%20Fernando&color=purple&style=plastic">
 
   </a>
