@@ -110,7 +110,7 @@ HAVE A FUN!
 											<tr>
 												<td><a href="https://wa.me/94717954374"><img src="https://telegra.ph/file/022fc0c8a33f74ca448c5.jpg" width="200" height="200" alt="Sanjula"></a></td>
 												<td><a href="https://www.youtube.com/c/TechDeiyo"><img src="https://telegra.ph/file/0176e25255e97de0bdc4b.jpg" width="200" height="200" alt="Sanjaana"></a></td>
-                        <td><a href="httsp://github.com/BlackAmda/"><img src="https://telegra.ph/file/868958cca51f2bd68d5ac.jpg" width="200" height="200" alt="Thinura"></a></td>
+                        <td><a href="httsp://github.com/HBMOD22/"><img src="https://telegra.ph/file/868958cca51f2bd68d5ac.jpg" width="200" height="200" alt="Thinura"></a></td>
 											</tr>
 									</table>
                   <table>
