@@ -93,12 +93,6 @@ HAVE A FUN!
 ```
 
 
-## 📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
-<div>
-	<a href="https://www.youtube.com/watch?v=9kJlE9RYKeo">
-<img src="https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg" width="200"></br></a>
-</div>
-
 
 ## T-REX Team Offcial
 
