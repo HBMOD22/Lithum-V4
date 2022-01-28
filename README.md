@@ -99,25 +99,25 @@ HAVE A FUN!
 <table>
 										<tbody>
 											<tr>
-												<td><a href="https://duanf0484.wixsite.com/achi-bro-lk"><img src="https://telegra.ph/file/13fb228cedfabbd2224ac.jpg" width="200" height="200" alt="Achi Fernando"></a></td>
-												<td><a href="https://github.com/Dark-Knight-Hiruwa"><img src="https://telegra.ph/file/696ea20f2c93ad64aa239.jpg" width="200" height="200" alt="Hiruwa"></a></td>
-												<td><a href="https://www.youtube.com/c/PearlYT-JRVSW"><img src="https://telegra.ph/file/ae66d42d972430f1d53c9.jpg" width="200" height="200" alt="Kasun"></a></td>
+												<td><a href="https://duanf0484.wixsite.com/achi-bro-lk"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Achi Fernando"></a></td>
+												<td><a href="https://github.com/Dark-Knight-Hiruwa"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Hiruwa"></a></td>
+												<td><a href="https://www.youtube.com/c/PearlYT-JRVSW"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Kasun"></a></td>
 											</tr>
 										</tbody>
 									</table>
                   <table>
 										<tbody>
 											<tr>
-												<td><a href="https://wa.me/94717954374"><img src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="200" height="200" alt="Sanjula"></a></td>
-												<td><a href="https://www.youtube.com"><img src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="200" height="200" alt="Sanjaana"></a></td>
+												<td><a href="https://wa.me/94717954374"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Sanjula"></a></td>
+												<td><a href="https://www.youtube.com"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Sanjaana"></a></td>
                         <td><a href="httsp://github.com/HBMOD22/"><img src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="200" height="200" alt="Thinura"></a></td>
 											</tr>
 									</table>
                   <table>
 										<tbody>
 											<tr>
-												<td><a href="https://www.youtube.com"><img src="https://telegra.ph/file/81559ab4dce492370645c.jpg" width="200" height="200" alt="DM bro"></a></td>
-												<td><a href="https://wa.me/94767911794"><img src="https://telegra.ph/file/a1ca412b0b92cc45aaa6a.jpg" width="200" height="200" alt="Pasiya"></a></td>
+												<td><a href="https://www.youtube.com"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="DM bro"></a></td>
+												<td><a href="https://wa.me/94767911794"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Pasiya"></a></td>
 												<td><a href="https://wa.me/94718556912"><img src="https://telegra.ph/file/0953550b78a8b1861346b.jpg" width="200" height="200" alt="paraveen"></a></td>
 											</tr>
 										</tbody>
