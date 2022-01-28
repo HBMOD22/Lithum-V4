@@ -49,25 +49,25 @@
   
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/github/forks/AchiyaCT/ALPHA-V4?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/HBMOD22/Lithum-V4?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4/stargazers">
-    <img src="https://img.shields.io/github/stars/AchiyaCT/ALPHA-V4?style=social">
+    <img src="https://img.shields.io/github/stars/HBMOD22/Lithum-V4?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/github/repo-size/AchiyaCT/ALPHA-V4?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/HBMOD22/Lithum-V4?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/github/license/AchiyaCT/ALPHA-V4?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/HBMOD22/Lithum-V4?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/github/languages/top/AchiyaCT/ALPHA-V4?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/HBMOD22 /Lithum-V4?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4">
