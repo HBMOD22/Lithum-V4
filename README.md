@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/docker/pulls/HBHBMOD22/Lithum-V4?style=flat-square&label=Docker+Pulls">
   </a>
   <a href="https://github.com/HBMOD22/Lithum-V4">
-    <img src="https://img.shields.io/docker/image-size/AchiyaCT/ALPHA-V4?style=flat-square&logo=github&label=Image Size">
+    <img src="https://img.shields.io/docker/image-size/HBMOD22/Lithum-V4?style=flat-square&logo=github&label=Image Size">
     
   </a>
 </p>
