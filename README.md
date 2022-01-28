@@ -15,8 +15,6 @@
     World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot අනිවාරේං බොට් පාවිච්චි කරන අය group එකට join wanna
     <br>
         <a href="https://chat.whatsapp.com/BoEEgtNzpk0CbUq6FrUBGr">Whatsapp Group 1</a> |
-       
-        <a href="https://chat.whatsapp.com/JQ6Wm0B1WxxIrwZBIGwAJJ">Whatsapp Group 2</a> |
     <br>
 </p>
 
