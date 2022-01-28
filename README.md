@@ -12,7 +12,7 @@
   <h1>⎝🛡️ Lithum 🛡️⎠ WhatsApp User Bot v4.0.0</h1>
 </div>
 <p align="center">
-    World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
+    World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot අනිවාරේං බොට් පාවිච්චි කරන අය group එකට join wanna
     <br>
         <a href="https://chat.whatsapp.com/BoEEgtNzpk0CbUq6FrUBGr">Whatsapp Group</a> |
        
