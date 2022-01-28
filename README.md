@@ -101,7 +101,7 @@ HAVE A FUN!
 											<tr>
 												<td><a href="https://wa.me/94767911794"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Achi Fernando"></a></td>
 												<td><a href="https://github.com/HBMOD22"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Hiruwa"></a></td>
-												<td><a href="https://www.youtube.com/c/PearlYT-JRVSW"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Kasun"></a></td>
+												<td><a href="https://www.youtube.com"><img src="https://telegra.ph/file/6d87281b5be07068df6cf.jpg" width="200" height="200" alt="Kasun"></a></td>
 											</tr>
 										</tbody>
 									</table>
